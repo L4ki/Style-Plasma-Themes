@@ -1,0 +1,36 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Style-Global-6",
+        "Description": "Style Global Theme by l4k1",
+        "Id": "Style-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Style-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2297912",
+        "kns://colorschemes.knsrc/api.kde-look.org/2297908",
+        "kns://colorschemes.knsrc/api.kde-look.org/2297907",
+        "kns://colorschemes.knsrc/api.kde-look.org/2297906",
+        "kns://icons.knsrc/api.kde-look.org/2297910",
+        "kns://icons.knsrc/api.kde-look.org/2297909",
+        "kns://icons.knsrc/api.kde-look.org/2234790",
+        "kns://icons.knsrc/api.kde-look.org/2234789",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2297914",
+        "kns://wallpaper.knsrc/api.kde-look.org/2297900",
+        "kns://wallpaper.knsrc/api.kde-look.org/2297901",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2297905"
+    ]
+}
