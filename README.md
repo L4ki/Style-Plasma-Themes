@@ -2,7 +2,7 @@
 
 Style Themes For Plasma Desktop
 
-Download: https://www.pling.com/p/2261515/
+Download: 
 ------------------------------------------
 
 
