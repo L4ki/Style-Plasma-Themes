@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Style-Dark-Color-Aurorae-6",
+        "Description" : "Style Window Decorations For Plasma 6",
+        "Id": "Style-Dark-Color-Aurorae-6",
+        "License": "GPLv3",
+        "Version": "1.0",
+        "X-KDE-PluginInfo-blur": true,
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}
