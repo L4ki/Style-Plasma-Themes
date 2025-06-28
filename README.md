@@ -38,3 +38,10 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/3d3bdcab-fbaf-4aa2-b1af-b2a23f104d37)
 
 
+Chengelog: 28.06.2025.
+----------------------
+
+Plasma Theme
+------------
+
+Update; metadata.desktop
