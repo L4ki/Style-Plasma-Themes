@@ -38,10 +38,10 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/3d3bdcab-fbaf-4aa2-b1af-b2a23f104d37)
 
 
-Chengelog: 15.11.2025.
+Chengelog: 22.11.2025.
 ----------------------
 
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update: metadata.json
